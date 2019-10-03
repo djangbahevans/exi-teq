@@ -1,0 +1,18 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.links {
+  display: flex;
+  
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form input {
+  border-radius: 0;
+}
